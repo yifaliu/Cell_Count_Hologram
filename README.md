@@ -1,3 +1,3 @@
 # Cell_Count_Hologram
 
-C
+Count the cell number from hologram image directly
